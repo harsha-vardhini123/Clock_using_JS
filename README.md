@@ -1,6 +1,5 @@
 # Clock_using_JS
 
-
 ## 🚀 Getting Started
 
 To run the clock locally:
