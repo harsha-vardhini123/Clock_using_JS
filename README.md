@@ -17,5 +17,4 @@ To run the clock locally:
 
 <img width="1907" height="985" alt="image" src="https://github.com/user-attachments/assets/197d3bd5-14e6-420e-b08a-272a4d38666b" />
 
-
 This project is open source and available.
